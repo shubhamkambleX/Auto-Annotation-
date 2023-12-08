@@ -13,3 +13,8 @@ Required Packages :=
 
 Thats its 
 Ready to run the code ......
+
+
+
+Reference :
+https://github.com/mdhmz1/Auto-Annotate?tab=readme-ov-file#mdhmz1
