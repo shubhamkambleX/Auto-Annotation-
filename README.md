@@ -4,7 +4,11 @@ Example Annotate all pet food Images (Whiskas food for cat) in the input directo
 The Auto-Annotate tool provides auto annotation of object detected for the objects in the images inside some directory based on the labels. Auto-Annotate is able to provide automated annotations for the labels defined in the COCO Dataset and also supports Custom Labels. This tool is built on top of Faster-R-CNN to support auto annotation for each instance of an object segment in the image. 
 
 Flows goes 
+
+
 Image Directory ---> Auto Annotate (Label Whiskas Cat Food) ----> Annotations+ .txt files (with co-ordinates)
+
+
 I have Implemented in Jupyter Notebook but you can create your environment and install all the packages.
 -- jupyter notebook steps
 
