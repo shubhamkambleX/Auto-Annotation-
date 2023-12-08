@@ -7,17 +7,9 @@ Flows goes
 Image Directory ---> Auto Annotate (Label Whiskas Cat Food) ----> Annotations+ .txt files (with co-ordinates)
 I have Implemented in Jupyter Notebook but you can create your environment and install all the packages.
 -- jupyter notebook steps
-1) Required Packages
-!pip install torch torchvision
 
-2) import packages
-   import warnings
-   warnings.simplefilter("ignore")
-  import os
-  import torch
-  import torchvision.transforms as T
-  from torchvision.models.detection import fasterrcnn_resnet50_fpn
-  from PIL import Image, ImageDraw
+Required Packages := 
+!pip install torch torchvision
 
 Thats its 
 Ready to run the code ......
